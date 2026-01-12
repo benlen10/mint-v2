@@ -1,0 +1,7 @@
+spending.db
+__pycache__/
+*.pyc
+.env
+venv/
+imports/
+.DS_Store
